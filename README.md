@@ -2,7 +2,7 @@
 
 ## Kurulum
 
-Programı bilgisayarınıza yüklemek için [setup.exe](Kurulum/setup.exe)  dosyasını çalıştırabilirsiniz.
+Programı bilgisayarınıza yüklemek için [setup.exe](Kurulum/)  dosyasını çalıştırabilirsiniz.
 
 Programı kurduktan sonra aşağıdaki arayüz görünecektir.
 
