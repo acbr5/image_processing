@@ -1,0 +1,24 @@
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\bin\Debug\IMAGE PROCCESSING.exe.config
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\bin\Debug\IMAGE PROCCESSING.exe
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\bin\Debug\IMAGE PROCCESSING.pdb
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.csprojResolveAssemblyReference.cache
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form1.resources
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Properties.Resources.resources
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.csproj.GenerateResource.Cache
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.exe
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.pdb
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form2.resources
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form3.resources
+e:\downloads\documents\visual studio 2015\Projects\IMAGE PROCCESSING\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form4.resources
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\bin\Debug\IMAGE PROCCESSING.exe.config
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\bin\Debug\IMAGE PROCCESSING.exe
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\bin\Debug\IMAGE PROCCESSING.pdb
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form1.resources
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form2.resources
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form3.resources
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Form4.resources
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE_PROCCESSING.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.exe
+C:\Users\Lenovo\source\repos\IMAGE PROCCESSING\obj\Debug\IMAGE PROCCESSING.pdb
